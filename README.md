@@ -1,0 +1,2 @@
+# CNN
+notes about CNN
